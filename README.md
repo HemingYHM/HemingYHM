@@ -1,4 +1,4 @@
-<h3 align="center">CS Student at UC BERKELEY, many of my projects are private, feel free to reach out for permisson free to reach out for</h3>
+<h3 align="center">CS Student at UC BERKELEY, many of my projects are private, feel free to reach out for permisson</h3>
 
 - 📫 How to reach me **hemingy@berkeley.edu**
 
